@@ -2,8 +2,9 @@
 > Pick the stock and get its predicted value based on its trend over a period of time.
 
 ### Check it now [here](https://stockpricepred.streamlit.app/)
-![image](https://github.com/vilasrhegde/stockprice-prediction/assets/85540091/4769ef70-7213-4d36-87fc-dcf12919978d)
-![image](https://github.com/vilasrhegde/stockprice-prediction/assets/85540091/fbb3fa96-2962-4688-9dbc-c8fcdf4ff723)
+![image](https://github.com/vilasrhegde/Stockprice-prediction/assets/85540091/315295b5-1db1-4109-a26b-5fadcea0e143)
+![image](https://github.com/vilasrhegde/Stockprice-prediction/assets/85540091/ab25a44f-4159-4c2b-bd40-404383abd544)
+
 
 
 
